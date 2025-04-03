@@ -1,7 +1,3 @@
-
-### README.md for packet_sniffer.py
-
-```markdown
 # Packet Sniffer
 
 ## Overview
